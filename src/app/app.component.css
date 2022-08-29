@@ -1,0 +1,25 @@
+/* .main{
+    margin: auto;
+    height: 500px;
+    width: 600px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+span{
+    justify-content: space-between;
+}
+
+.input-field
+{
+
+    border: 2px solid black;
+    width: 400px;
+    justify-content: space-between;
+} */
+
+input{
+    margin: 2px;
+}
