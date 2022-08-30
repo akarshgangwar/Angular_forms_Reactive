@@ -20,6 +20,14 @@ span{
     justify-content: space-between;
 } */
 
-input{
-    margin: 2px;
+/* input{
+    margin: 5px;
+    padding-left: 5px;
+} */
+/* .alert{
+    color: red;
+} */
+
+.validation-error{
+    color :red;
 }
